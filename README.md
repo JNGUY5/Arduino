@@ -9,7 +9,7 @@ A screenshot of the code we used for the "push and hold for light" is below:
 
 ![img](https://github.com/JNGUY5/Arduino/blob/master/Jj2VFO.jpg)
 
-A screenshot of the code we used for the "regular light switch (without bounce fix" is below:
+A screenshot of the code we used for the "regular light switch (without bounce fix") is below:
 
 ![img](https://github.com/JNGUY5/Arduino/blob/master/Xxj8QN.jpg)
 
