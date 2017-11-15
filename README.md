@@ -32,5 +32,10 @@ A screenshot of our actual bread board:
 ![img](https://github.com/JNGUY5/Arduino/blob/master/H9oz7l.jpg)
 
 
+_**November 15th**_ : 
+
+This may not be compeletely complete, butit may. Today I(Jason) aded a bucnh of things to the read me and repo. I added files so that I will no longer have to look through the computer to acess code. I also Added the handbok to the readme. I also wasworking on using miliseconds instead of delay. I have been told this way is better because delay shuts stuff down and can be frustrating in groups. I used milliseconds in this and understand this. I seaved thisseperately and added the file with the end name "milliseconds "
+
+
 
 
