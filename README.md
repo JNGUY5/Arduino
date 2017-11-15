@@ -3,6 +3,10 @@
 
 ## Arduino project using the bread board just a log
 
+**NOTEBOOK**
+https://docs.google.com/viewer?a=v&pid=sites&srcid=b2Nkc2IuY2F8YS15LWphY2tzb24taWNzNHV8Z3g6MzAyZTZhNjM1Njk1ODc4MA
+above is the link to a website... i think its in google drive. Anyways this is the arduino handbook, and will be very important and usefull when coidng or using arduino.
+
 ### _Before November 1st_ : 
 
 The couple weeks before November 1st were mainly a discovery phase of the project for us. Jason and I (Anees) spent lots of time trying to understant the way the wires worked on the board and struggled a bit when we got started, to find a button that actually worked whn it was pressed. Eventually we became comfortable with the way the nanoboard works and we started working with the Simpe_PB_LED_V1 file. After editing this file for a while, we decided on a new goal to switch around the way it works and try to get the light to switch off when the button is let go of.
@@ -26,5 +30,7 @@ A screenshot of the code we used for the "regular light switch (without bounce f
 A screenshot of our actual bread board:
 
 ![img](https://github.com/JNGUY5/Arduino/blob/master/H9oz7l.jpg)
+
+
 
 
