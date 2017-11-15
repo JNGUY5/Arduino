@@ -2,8 +2,8 @@
 
 
 ## Arduino project using the bread board just a log
-
-**NOTEBOOK**
+_**HANDBOOK FOR ARDUINO**_ : 
+  
 https://docs.google.com/viewer?a=v&pid=sites&srcid=b2Nkc2IuY2F8YS15LWphY2tzb24taWNzNHV8Z3g6MzAyZTZhNjM1Njk1ODc4MA
 above is the link to a website... i think its in google drive. Anyways this is the arduino handbook, and will be very important and usefull when coidng or using arduino.
 
