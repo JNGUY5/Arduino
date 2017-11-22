@@ -1,4 +1,5 @@
 # Arduino
+https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 Created with love :heart: and hard work :metal:by @aaiss1 and @JNGUY5 :octocat:
 
@@ -29,13 +30,19 @@ _**November 8th**_ :
 
 A screenshot of the code we used for the "push and hold for light" is below:
 
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down:
+
 ![img](https://github.com/JNGUY5/Arduino/blob/master/Jj2VFO.jpg)
 
 A screenshot of the code we used for the "regular light switch (without bounce fix") is below:
 
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down:
+
 ![img](https://github.com/JNGUY5/Arduino/blob/master/Xxj8QN.jpg)
 
 A screenshot of our actual bread board:
+
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down:
 
 ![img](https://github.com/JNGUY5/Arduino/blob/master/H9oz7l.jpg)
 
@@ -44,6 +51,6 @@ _**November 15th**_ :
 
 >This may not be compeletely complete, butit may. Today I (Jason) added a bunch of things to the readme and repo. I added files so that I will no longer have to look through the computer to access code. I also added the handbok to the readme. I also was working on using miliseconds instead of delay. I have been told this way is better because delay shuts stuff down and can be frustrating in groups. I used milliseconds in this and understand this. I seaved this seperately and added the file with the end name "milliseconds".
 
-_**November 22nd**_ : 
 
->Today, we mainly made changed to our GitHub repo (and a slight edit to understand the milliseconds vs delay issue), and we believe that our repo is very detailed as well as our readme file that you are currently reading. GitHib has been extremely useful for this Arduino Nano project in fact we've really enjoyed decorating our readme, and we think it looks really crisp and clean.
+
+
