@@ -6,6 +6,13 @@ _**HANDBOOK FOR ARDUINO**_ :
   
 https://docs.google.com/viewer?a=v&pid=sites&srcid=b2Nkc2IuY2F8YS15LWphY2tzb24taWNzNHV8Z3g6MzAyZTZhNjM1Njk1ODc4MA
 above is the link to a website... i think its in google drive. Anyways this is the arduino handbook, and will be very important and usefull when coidng or using arduino.
+## Setup/Don't Forget!
+>Check the ports! Go to devices and printers, then go to the bottom and look at the port. Then go to arduino, click _tools_, then _Port:_, then make sure or change it so that the arduino port matches the computers listed port.
+
+>Check the board type! Go to _tools_ under the toolbar, go and click on _board:_, and make sure you select the board type _nano_.
+
+>After following these steps, the code on the computer should work.
+
 
 ### _Before November 1st_ : 
 
