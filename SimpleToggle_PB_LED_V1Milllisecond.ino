@@ -1,5 +1,5 @@
     /* SimpleToggle_PB_LED */
-long interval = 150;
+long interval = 100;
 long Beforemillis = 0;
 const byte LEDpin = 3;
 const byte SWITCHpin = 2;
