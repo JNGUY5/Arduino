@@ -1,7 +1,8 @@
 # Arduino
 
+Created with love :heart: and hard work :metal:by @aaiss1 and @JNGUY5 :octocat:
 
-## Arduino project using the bread board just a log
+## Arduino project using the bread board just a log 
 _**HANDBOOK FOR ARDUINO**_ : 
   
 >https://docs.google.com/viewer?a=v&pid=sites&srcid=b2Nkc2IuY2F8YS15LWphY2tzb24taWNzNHV8Z3g6MzAyZTZhNjM1Njk1ODc4MA
