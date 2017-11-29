@@ -52,6 +52,6 @@ _**November 15th**_ :
 
 _**November 22nd**_ : 
 
->Today, we mainly made changed to our GitHub repo (and a slight edit to understand the milliseconds vs delay issue), and we believe that our repo is very detailed as well as our readme file that you are currently reading. GitHib has been extremely useful for this Arduino Nano project in fact we've really enjoyed decorating our readme, and we think it looks really crisp and clean.
+>Today, we mainly made changed to our GitHub repo (and a slight edit to understand the milliseconds vs delay issue), and we believe that our repo is very detailed as well as our readme file that you are currently reading. GitHub has been extremely useful for this Arduino Nano project in fact we've really enjoyed decorating our readme, and we think it looks really crisp and clean.
 
 
