@@ -54,4 +54,8 @@ _**November 22nd**_ :
 
 >Today, we mainly made changed to our GitHub repo (and a slight edit to understand the milliseconds vs delay issue), and we believe that our repo is very detailed as well as our readme file that you are currently reading. GitHub has been extremely useful for this Arduino Nano project in fact we've really enjoyed decorating our readme, and we think it looks really crisp and clean.
 
+_**November 29th**_ : 
+
+>Unfortunately, this work period was probably the least productive of all... It's not that we didn't try to do anything, but that none of our attempts worked. We were attempting to get 6 LEDs working with 3 inputs on the board, as explained in the Issues and Projects tabs of this repository. We struggled a lot and still have not figured it out. Next week we will try to finish this.
+
 
