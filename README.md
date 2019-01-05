@@ -48,7 +48,7 @@ A screenshot of our actual bread board:
 
 _**November 15th**_ : 
 
->This may not be compeletely complete, butit may. Today I (Jason) added a bunch of things to the readme and repo. I added files so that I will no longer have to look through the computer to access code. I also added the handbok to the readme. I also was working on using miliseconds instead of delay. I have been told this way is better because delay shuts stuff down and can be frustrating in groups. I used milliseconds in this and understand this. I seaved this seperately and added the file with the end name "milliseconds".
+>This may not be compeletely complete, but it may. Today I (Jason) added a bunch of things to the readme and repo. I added files so that I will no longer have to look through the computer to access code. I also added the handbok to the readme. I also was working on using miliseconds instead of delay. I have been told this way is better because delay shuts stuff down and can be frustrating in groups. I used milliseconds in this and understand this. I seaved this seperately and added the file with the end name "milliseconds".
 
 _**November 22nd**_ : 
 
